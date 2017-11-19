@@ -1,0 +1,21 @@
+
+
+@media all and (max-width: 992px) {
+    .gallery {
+        transform: translate(0, 0);
+    }
+    .product-image {
+        width: 40vw;
+        margin: 30px;
+    }
+}
+
+@media all and (max-width: 480px) {
+    .gallery {
+        transform: translate(0, 0);
+    }
+    .product-image {
+        width: 80vw;
+        margin: 10px auto;
+    }
+}
